@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size:70px ;
+}
+img{
+    width:60px;
+}
+header{
+    background-image:linear-gradient(to right,#EB722E,#BBE7FA);
+    padding: 10px;
+    margin-left:10px ;
+}
